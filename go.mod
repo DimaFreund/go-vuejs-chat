@@ -1,4 +1,4 @@
-module github.com/DimaFreund/ws-test
+module github.com/DimaFreund/go-ws-test
 
 go 1.14
 
