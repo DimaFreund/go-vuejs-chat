@@ -1,4 +1,4 @@
-module github.com/jeroendk/chatApplication
+module github.com/DimaFreund/go-vuejs-chat
 
 go 1.14
 
