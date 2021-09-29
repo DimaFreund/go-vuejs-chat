@@ -1,4 +1,4 @@
-module github.com/DimaFreund/go-vuejs-chat
+module github.com/DimaFreund/ws-test
 
 go 1.14
 
